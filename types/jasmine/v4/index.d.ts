@@ -1027,7 +1027,7 @@ declare namespace jasmine {
     interface Spec {
         new(attrs: any): any;
 
-        readonly id: number;
+        readonly id: string;
         env: Env;
         readonly description: string;
         getFullName(): string;
