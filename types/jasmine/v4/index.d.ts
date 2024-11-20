@@ -1,6 +1,7 @@
 // For ddescribe / iit use : https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/karma-jasmine/karma-jasmine.d.ts
 
 // test
+// test 2
 
 /**
  * @deprecated Use {@link jasmine.ImplementationCallback} instead.
